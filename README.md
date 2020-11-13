@@ -1,5 +1,5 @@
 Travis:
-[![Build Status](https://travis-ci.com/github/israelantezana/tenis-scorer-ingsoft2020?branch=master)](https://travis-ci.com/github/israelantezana/tenis-scorer-ingsoft2020)
+[![Build Status](https://travis-ci.com/israelantezana/tenis-scorer-ingsoft2020.svg?branch=main)](https://travis-ci.com/github/israelantezana/tenis-scorer-ingsoft2020)
 
 ![](https://github.com/kleer-la/template2_6_5/workflows/Ruby/badge.svg)
 
